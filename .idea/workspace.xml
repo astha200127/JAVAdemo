@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3803ed9-a163-4ce9-8673-5634db742593" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicExercise1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q8LEDdmm1tFkuQJ9aWZ1bJg4rX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Q33">
+    <configuration name="Q15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q15" />
+      <module name="Questions practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q16" />
+      <module name="Questions practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q17" />
+      <module name="Questions practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q32" />
+      <module name="Questions practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q33" />
+      <module name="Questions practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q33" />
+        <item itemvalue="Application.Q32" />
+        <item itemvalue="Application.Q17" />
+        <item itemvalue="Application.Q16" />
+        <item itemvalue="Application.Q15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3803ed9-a163-4ce9-8673-5634db742593" name="Changes" comment="" />
+      <created>1684730151634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684730151634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/production/Questions practice/Q3.class</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
